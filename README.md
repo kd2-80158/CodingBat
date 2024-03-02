@@ -1,2 +1,2 @@
 # CodingBat
-All the solutions of questions from codingbat is written in java
+The solutions for all the questions on CodingBat are coded in Java.
